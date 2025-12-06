@@ -190,4 +190,4 @@ Use at your own risk. Read through `setup-iptv.sh` before running if you want to
 
 ## License
 
-MIT (or add your preferred license here).
+Free to use and modify for everyone :)
